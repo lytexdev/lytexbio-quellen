@@ -9,7 +9,14 @@ Dieses öffentliche Repository sammelt die Studien, Reviews, Leitlinien und weit
 ## Neueste Videos und Quellen
 
 <!-- AUTO:START -->
-Noch keine veröffentlichten Quelldateien mit gültigem Veröffentlichungsdatum vorhanden.
+### Aktuelle Quellenlisten
+
+- **2026-10-13** — [Abnehmspritzen erklärt: Ozempic, Wegovy, Mounjaro & Retatrutid | Der große GLP-1 Guide!](videos/2026/GLP-1-Guide.md) · [YouTube](https://www.youtube.com/watch?v=dFT2Pl85HoQ)
+
+### Neueste YouTube-Videos
+
+- [Abnehm-Hacks TIERLIST: Was funktioniert wirklich?](https://www.youtube.com/watch?v=zENzkWrQNOM) · Keine Quellenliste
+- [Abnehmspritzen erklärt: Ozempic, Wegovy, Mounjaro & Retatrutid | Der große GLP-1 Guide!](https://www.youtube.com/watch?v=dFT2Pl85HoQ) · [Quellen](videos/2026/GLP-1-Guide.md)
 <!-- AUTO:END -->
 
 ## Quellen finden
