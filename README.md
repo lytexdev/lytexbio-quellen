@@ -24,7 +24,7 @@ Dieses öffentliche Repository sammelt die Studien, Reviews, Leitlinien und weit
 Auch zu meinen Kurzvideos findest du hier die zugehörigen Quellen. Da TikToks und Reels Inhalte stark verkürzen, liefern die Quellenlisten den Kontext und die Einschränkungen, die im Video selbst keinen Platz haben.
 
 <!-- SHORTS:START -->
-Noch keine Quellenlisten zu Shorts vorhanden.
+- **2026-10-30** — [ADHS-Medikamente erklärt: Atomoxetin & Bupropion](shorts/2026/ADHS-Medikamente-Atomoxetin-Bupropion.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio)
 <!-- SHORTS:END -->
 
 ## Quellen finden
