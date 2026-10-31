@@ -9,7 +9,9 @@ topics: ["Pharmakologie", "ADHS"]
 # ADHS-Medikamente erklärt: Atomoxetin & Bupropion — Quellen
 
 **TikTok:** https://www.tiktok.com/@lytexbio/video/7702410558762470678
+
 **Instagram Reel:** https://www.instagram.com/p/DfHZp8gCOzn/
+
 **Stand der Recherche:** 2026-10-30
 
 ## Kernaussagen und Evidenz
