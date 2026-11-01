@@ -8,9 +8,9 @@ topics: ["Pharmakologie", "ADHS"]
 
 # ADHS-Medikamente erklärt: Adderall — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7703225427485084950
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram Reel:** https://www.instagram.com/p/DfNDilhi9DN/
 
 **Stand der Recherche:** 2026-10-31
 
@@ -37,6 +37,7 @@ topics: ["Pharmakologie", "ADHS"]
 
 ## Korrekturen und Updates
 
+- 2026-11-01: Videolinks hinzugefügt.
 - 2026-10-31: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

@@ -1,7 +1,7 @@
 ---
 title: "Titel des Shorts"
 published: "2026-10-31"
-tiktok_url: "https://www.tiktok.com/@lytexbio/"
+tiktok_url: "https://www.tiktok.com/@lytexbio"
 instagram_url: "https://www.instagram.com/lytexbio"
 topics: ["Biohacking"]
 ---
@@ -10,7 +10,7 @@ topics: ["Biohacking"]
 
 **TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/reel/REEL_ID/
 
 **Stand der Recherche:** 2026-10-31
 
