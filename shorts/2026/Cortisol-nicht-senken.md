@@ -8,9 +8,9 @@ topics: ["Hormone", "Supplements", "Biohacking"]
 
 # Warum du dein Cortisol nicht senken solltest — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7703474961574333718
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram Reel:** https://www.instagram.com/p/DfOyYPpi4uY/
 
 **Stand der Recherche:** 2026-10-31
 
@@ -44,6 +44,7 @@ topics: ["Hormone", "Supplements", "Biohacking"]
 
 ## Korrekturen und Updates
 
+- 2026-11-02: Video-Links eingefügt.
 - 2026-10-31: Quellenliste angelegt
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.
