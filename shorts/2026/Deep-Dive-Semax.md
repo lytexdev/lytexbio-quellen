@@ -8,9 +8,9 @@ topics: ["Nootropika", "Peptide"]
 
 # Deep Dive: Semax — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7703569902581337366
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram Reel:** https://www.instagram.com/p/DfRkVIwib88/
 
 **Stand der Recherche:** 2026-10-31
 
@@ -40,6 +40,7 @@ topics: ["Nootropika", "Peptide"]
 
 ## Korrekturen und Updates
 
+- 2026-11-04: Videolinks hinzugefügt.
 - 2026-10-31: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

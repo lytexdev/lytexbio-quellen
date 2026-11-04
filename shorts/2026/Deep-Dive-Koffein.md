@@ -8,9 +8,9 @@ topics: ["Pharmakologie", "Schlaf", "Biohacking"]
 
 # Deep Dive: Koffein — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7703476086675393814
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram Reel:** https://www.instagram.com/p/DfPhlhExZqz/
 
 **Stand der Recherche:** 2026-10-31
 
@@ -38,7 +38,6 @@ topics: ["Pharmakologie", "Schlaf", "Biohacking"]
 
 ## Bild- und Tonnachweise
 
-- Alle Grafiken sind eigene Animationen (keine Fremdbilder).
 - Musik: „Easy Lemon“ – Kevin MacLeod (incompetech.com), lizenziert unter CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
 - Sound-Effekte: Mixkit (Mixkit Free License).
 
