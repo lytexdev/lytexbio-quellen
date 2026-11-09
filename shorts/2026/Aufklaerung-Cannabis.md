@@ -8,9 +8,9 @@ topics: ["Drogen Aufklärung", "Neurowissenschaft", "Cannabis"]
 
 # Aufklärung Cannabis — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7704990602550643990
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram Reel:** https://www.instagram.com/p/DfbiqE0xAI2/
 
 **Stand der Recherche:** 2026-11-03
 
@@ -57,5 +57,6 @@ topics: ["Drogen Aufklärung", "Neurowissenschaft", "Cannabis"]
 
 ## Korrekturen und Updates
 
+- 2026-11-09: Videolinks eingefügt.
 - 2026-11-03: Quellenliste angelegt.
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

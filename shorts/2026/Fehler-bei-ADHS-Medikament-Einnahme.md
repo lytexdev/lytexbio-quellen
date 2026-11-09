@@ -8,9 +8,9 @@ topics: ["ADHS", "Pharmakologie", "Wechselwirkungen"]
 
 # Fehler bei der ADHS-Medikament-Einnahme — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7704625267599248662
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram Reel:** https://www.instagram.com/p/DfZPBq_RXww/
 
 **Stand der Recherche:** 2026-11-02
 
@@ -38,6 +38,7 @@ topics: ["ADHS", "Pharmakologie", "Wechselwirkungen"]
 
 ## Korrekturen und Updates
 
+- 2026-11-09: Videolinks eingefügt.
 - 2026-11-02: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

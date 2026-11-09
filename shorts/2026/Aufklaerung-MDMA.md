@@ -8,9 +8,9 @@ topics: ["Drogen Aufklärung", "Pharmakologie", "MDMA"]
 
 # Aufklärung MDMA — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7704246975797005590
 
-**Instagram Reel:** https://www.instagram.com/reel/REEL_ID/
+**Instagram Reel:** https://www.instagram.com/p/DfWqNPDxu_E/
 
 **Stand der Recherche:** 2026-11-03
 
@@ -54,5 +54,6 @@ topics: ["Drogen Aufklärung", "Pharmakologie", "MDMA"]
 
 ## Korrekturen und Updates
 
+- 2026-11-09: Videolinks eingefügt.
 - 2026-11-04: Quellenliste angelegt
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.
