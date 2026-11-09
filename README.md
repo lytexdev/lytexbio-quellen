@@ -24,6 +24,7 @@ Dieses öffentliche Repository sammelt die Studien, Reviews, Leitlinien und weit
 Auch zu meinen Kurzvideos findest du hier die zugehörigen Quellen. Da TikToks und Reels Inhalte stark verkürzen, liefern die Quellenlisten den Kontext und die Einschränkungen, die im Video selbst keinen Platz haben.
 
 <!-- SHORTS:START -->
+- **2026-11-09** — [Meth als Medikament?](shorts/2026/Meth-als-Medikament.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
 - **2026-11-06** — [Aufklärung Cannabis](shorts/2026/Aufklaerung-Cannabis.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
 - **2026-11-05** — [Aufklärung MDMA](shorts/2026/Aufklaerung-MDMA.md) · [TikTok](https://www.tiktok.com/@lytexbio) · [Instagram](https://www.instagram.com/lytexbio/)
 - **2026-11-04** — [Aufklärung Antidepressiva](shorts/2026/Aufklaerung-Antidepressiva.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
@@ -33,7 +34,6 @@ Auch zu meinen Kurzvideos findest du hier die zugehörigen Quellen. Da TikToks u
 - **2026-10-31** — [L-Theanin in Kombination mit Stimulanzien](shorts/2026/L-Theanin-Stimulanzien.md) · [TikTok](https://www.tiktok.com/@lytexbio) · [Instagram](https://www.instagram.com/lytexbio/)
 - **2026-10-31** — [Deep Dive: Semax](shorts/2026/Deep-Dive-Semax.md) · [TikTok](https://www.tiktok.com/@lytexbio) · [Instagram](https://www.instagram.com/lytexbio/)
 - **2026-10-31** — [Deep Dive: Koffein](shorts/2026/Deep-Dive-Koffein.md) · [TikTok](https://www.tiktok.com/@lytexbio) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-10-31** — [ADHS-Medikamente erklärt: Tentin & Attentin](shorts/2026/ADHS-Medikamente-Tentin-Attentin.md) · [TikTok](https://www.tiktok.com/@lytexbio) · [Instagram](https://www.instagram.com/lytexbio/)
 <!-- SHORTS:END -->
 
 ## Quellen finden
