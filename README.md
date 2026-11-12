@@ -12,11 +12,6 @@ Dieses öffentliche Repository sammelt die Studien, Reviews, Leitlinien und weit
 ### Aktuelle Quellenlisten
 
 - **2026-10-13** — [Abnehmspritzen erklärt: Ozempic, Wegovy, Mounjaro & Retatrutid | Der große GLP-1 Guide!](videos/2026/GLP-1-Guide.md) · [YouTube](https://www.youtube.com/watch?v=dFT2Pl85HoQ)
-
-### Neueste YouTube-Videos
-
-- [Abnehm-Hacks TIERLIST: Was funktioniert wirklich?](https://www.youtube.com/watch?v=zENzkWrQNOM) · Quellenliste noch nicht hinterlegt
-- [Abnehmspritzen erklärt: Ozempic, Wegovy, Mounjaro & Retatrutid | Der große GLP-1 Guide!](https://www.youtube.com/watch?v=dFT2Pl85HoQ) · [Quellen](videos/2026/GLP-1-Guide.md)
 <!-- AUTO:END -->
 
 ## TikToks & Instagram Reels
@@ -24,16 +19,16 @@ Dieses öffentliche Repository sammelt die Studien, Reviews, Leitlinien und weit
 Auch zu meinen Kurzvideos findest du hier die zugehörigen Quellen. Da TikToks und Reels Inhalte stark verkürzen, liefern die Quellenlisten den Kontext und die Einschränkungen, die im Video selbst keinen Platz haben.
 
 <!-- SHORTS:START -->
+- **2026-11-11** — [Tadalafil (Cialis) als Biohacking?](shorts/2026/Tadalafil-Cialis-Biohacking.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
+- **2026-11-11** — [Supplements mit Medikamenten-Potenz](shorts/2026/Supplements-mit-Medikamenten-Potenz.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
+- **2026-11-11** — [Ketamin – Aufklärung & Safer Use](shorts/2026/Aufklaerung-Ketamin.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
+- **2026-11-11** — [Eisenmangel feststellen – die 5 Blutwerte](shorts/2026/Eisenmangel-feststellen.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
+- **2026-11-11** — [Daridorexant – modernes Schlafmittel](shorts/2026/Schlaf-Daridorexant.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
+- **2026-11-11** — [Blutdrucksenker – 4 Gruppen, 4 Mechanismen](shorts/2026/Blutdrucksenker-4-Gruppen.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
+- **2026-11-11** — [Benzos – Aufklärung & Safer Use](shorts/2026/Aufklaerung-Benzos-Benzodiazepine.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
+- **2026-11-11** — [Aniracetam – Nootropikum oder Hype?](shorts/2026/Nootropika-Aniracetam.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
 - **2026-11-09** — [Trazodon für den Schlaf](shorts/2026/Schlaf-Trazodon.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
 - **2026-11-09** — [Tipps für besseren Schlaf](shorts/2026/Tipps-fuer-besseren-Schlaf.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-09** — [Meth als Medikament?](shorts/2026/Meth-als-Medikament.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-09** — [Melatonin – Evidenz und Mythen](shorts/2026/Melatonin-Evidenz.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-09** — [Analyse: Sicherheit von Ritalin/Methylphenidat](shorts/2026/Analyse-Sicherheit-Ritalin-Methylphenidat.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-06** — [Aufklärung Cannabis](shorts/2026/Aufklaerung-Cannabis.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-05** — [Aufklärung MDMA](shorts/2026/Aufklaerung-MDMA.md) · [TikTok](https://www.tiktok.com/@lytexbio) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-04** — [Aufklärung Antidepressiva](shorts/2026/Aufklaerung-Antidepressiva.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-02** — [Fehler bei der ADHS-Medikament-Einnahme](shorts/2026/Fehler-bei-ADHS-Medikament-Einnahme.md) · [TikTok](https://www.tiktok.com/@lytexbio) · [Instagram](https://www.instagram.com/lytexbio/)
-- **2026-11-02** — [ADHS-Medikamente erklärt: Focalin](shorts/2026/ADHS-Medikamente-Focalin.md) · [TikTok](https://www.tiktok.com/@lytexbio/) · [Instagram](https://www.instagram.com/lytexbio/)
 <!-- SHORTS:END -->
 
 ## Quellen finden
