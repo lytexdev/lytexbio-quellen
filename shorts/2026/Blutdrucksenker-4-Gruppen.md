@@ -10,7 +10,7 @@ topics: ["Pharmakologie", "Herz-Kreislauf", "Medizin"]
 
 **TikTok:** https://www.tiktok.com/@lytexbio/video/7708380862437494038
 
-**Instagram:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/p/Dfw1A2oi3qb/
 
 **Stand der Recherche:** 2026-11-11
 
@@ -39,6 +39,7 @@ topics: ["Pharmakologie", "Herz-Kreislauf", "Medizin"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-11: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

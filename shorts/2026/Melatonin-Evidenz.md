@@ -8,9 +8,9 @@ topics: ["Schlaf", "Supplements", "Biohacking"]
 
 # Melatonin – Evidenz und Mythen — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7706610457590697238
 
-**Instagram:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/p/DflyakExcYy/
 
 **Stand der Recherche:** 2026-11-09
 
@@ -37,6 +37,7 @@ topics: ["Schlaf", "Supplements", "Biohacking"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-09: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

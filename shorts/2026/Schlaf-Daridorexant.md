@@ -1,6 +1,6 @@
 ---
 title: "Daridorexant – modernes Schlafmittel"
-published: "2026-11-11"
+published: "2026-11-19"
 tiktok_url: "https://www.tiktok.com/@lytexbio/"
 instagram_url: "https://www.instagram.com/lytexbio/"
 topics: ["Schlaf", "Pharmakologie", "Neurowissenschaft"]
@@ -35,8 +35,6 @@ topics: ["Schlaf", "Pharmakologie", "Neurowissenschaft"]
 
 ## Changelogs
 
-- 2026-11-13: Fassung 2 des Videos – der Modafinil-Vergleich ist aus dem Schnitt entfernt, die Zeile dazu deshalb hier gestrichen.
-
-- 2026-11-11: Quellenliste angelegt. Eingeordnet: Zulassungsstatus, Effektgrößen aus den Phase-3-Studien (moderat, 10 mg ohne Effekt), Herstellerfinanzierung, „besser als Benzos“ als Meinung ohne Vergleichsstudie.
+- 2026-11-16: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

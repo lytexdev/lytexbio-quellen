@@ -1,6 +1,6 @@
 ---
 title: "Eisenmangel feststellen – die 5 Blutwerte"
-published: "2026-11-11"
+published: "2026-11-13"
 tiktok_url: "https://www.tiktok.com/@lytexbio/"
 instagram_url: "https://www.instagram.com/lytexbio/"
 topics: ["Blutwerte", "Ernährung", "Medizin"]
@@ -8,9 +8,9 @@ topics: ["Blutwerte", "Ernährung", "Medizin"]
 
 # Eisenmangel feststellen – die 5 Blutwerte — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7707189821076245782
 
-**Instagram:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/p/DfpKwoCR_FJ/
 
 **Stand der Recherche:** 2026-11-11
 
@@ -39,6 +39,7 @@ topics: ["Blutwerte", "Ernährung", "Medizin"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-11: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

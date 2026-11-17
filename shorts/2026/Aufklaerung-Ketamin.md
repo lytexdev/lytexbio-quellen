@@ -8,9 +8,9 @@ topics: ["Drogen", "Harm Reduction", "Pharmakologie", "Neurowissenschaft"]
 
 # Ketamin – Aufklärung & Safer Use — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7707317355310927126
 
-**Instagram:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/p/DfrC1bdx2_-/
 
 **Stand der Recherche:** 2026-11-12
 
@@ -41,6 +41,7 @@ topics: ["Drogen", "Harm Reduction", "Pharmakologie", "Neurowissenschaft"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-11: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

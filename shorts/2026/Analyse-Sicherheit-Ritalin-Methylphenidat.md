@@ -8,9 +8,9 @@ topics: ["ADHS", "Pharmakologie", "Arzneimittelsicherheit"]
 
 # Analyse: Sicherheit von Ritalin/Methylphenidat — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7706813100971937046
 
-**Instagram:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/p/DfoanIaR5gh/
 
 **Stand der Recherche:** 2026-11-09
 
@@ -40,6 +40,7 @@ topics: ["ADHS", "Pharmakologie", "Arzneimittelsicherheit"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-09: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

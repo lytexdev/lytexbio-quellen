@@ -1,6 +1,6 @@
 ---
 title: "Aniracetam Nootropikum?"
-published: "2026-11-11"
+published: "2026-11-16"
 tiktok_url: "https://www.tiktok.com/@lytexbio/"
 instagram_url: "https://www.instagram.com/lytexbio/"
 topics: ["Nootropika", "Biohacking", "Neurowissenschaft", "Pharmakologie"]
@@ -8,9 +8,9 @@ topics: ["Nootropika", "Biohacking", "Neurowissenschaft", "Pharmakologie"]
 
 # Aniracetam – Nootropikum oder Hype? — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7708382342498241814
 
-**Instagram:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/p/DfyqXYYR020/
 
 **Stand der Recherche:** 2026-11-11
 
@@ -39,6 +39,7 @@ topics: ["Nootropika", "Biohacking", "Neurowissenschaft", "Pharmakologie"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-11: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

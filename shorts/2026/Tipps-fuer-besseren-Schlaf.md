@@ -8,9 +8,9 @@ topics: ["Schlaf", "Gesundheit", "Biohacking"]
 
 # Tipps für besseren Schlaf — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7706454937529535747
 
-**Instagram:** https://www.instagram.com/reel/REEL_ID/
+**Instagram:** https://www.instagram.com/p/DfjdvQbC_ga/
 
 **Stand der Recherche:** 2026-11-09
 
@@ -39,6 +39,7 @@ topics: ["Schlaf", "Gesundheit", "Biohacking"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-09: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

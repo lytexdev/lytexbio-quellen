@@ -1,6 +1,6 @@
 ---
-title: "Wie wirkt Ibuprofen – und warum 800 mg nicht stärker gegen Schmerz hilft"
-published: "2026-11-15"
+title: "Wie wirkt Ibuprofen und warum 800 mg nicht stärker gegen Schmerz hilft"
+published: "2026-11-18"
 tiktok_url: "https://www.tiktok.com/@lytexbio/"
 instagram_url: "https://www.instagram.com/lytexbio/"
 topics: ["Pharmakologie", "Schmerz", "Gesundheit"]
@@ -12,7 +12,7 @@ topics: ["Pharmakologie", "Schmerz", "Gesundheit"]
 
 **Instagram:** https://www.instagram.com/reel/REEL_ID/
 
-**Stand der Recherche:** 2026-11-15
+**Stand der Recherche:** 2026-11-17
 
 ## Kernaussagen und Evidenz
 
@@ -42,6 +42,6 @@ topics: ["Pharmakologie", "Schmerz", "Gesundheit"]
 
 ## Changelogs
 
-- 2026-11-15: Quellenliste angelegt. Die Aussage „800 mg senken den Schmerz nicht stärker“ wurde im Video als Evidenzaussage eingeordnet (Cochrane-Daten zu Einzeldosen), nicht als belegte Obergrenze.
+- 2026-11-15: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

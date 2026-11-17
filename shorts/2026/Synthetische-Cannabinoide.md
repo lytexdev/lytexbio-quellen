@@ -1,5 +1,5 @@
 ---
-title: "Synthetische Cannabinoide – „legale“ THC-Alternativen?"
+title: "Synthetische Cannabinoide – legale THC-Alternativen?"
 published: "2026-11-13"
 tiktok_url: "https://www.tiktok.com/@lytexbio/"
 instagram_url: "https://www.instagram.com/lytexbio/"
@@ -8,9 +8,9 @@ topics: ["Drogenaufklärung", "Harm Reduction", "Cannabinoide", "Recht"]
 
 # Synthetische Cannabinoide — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7707588459543710998
 
-**Instagram:** https://www.instagram.com/lytexbio/
+**Instagram:** https://www.instagram.com/p/DfreZmAR80q/
 
 **Stand der Recherche:** 2026-11-13
 
@@ -37,6 +37,7 @@ topics: ["Drogenaufklärung", "Harm Reduction", "Cannabinoide", "Recht"]
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-13: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung. Keine Konsumaufforderung – bei Krampfanfall, Bewusstlosigkeit oder Brustschmerz nach Konsum sofort 112 rufen und sagen, was genommen wurde.

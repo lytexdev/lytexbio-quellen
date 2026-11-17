@@ -8,9 +8,9 @@ topics: ["Drogenaufklärung", "Harm Reduction", "Psychedelika", "Neurowissenscha
 
 # Aufklärung: LSD & Magic Mushrooms — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7707962757773085955
 
-**Instagram:** https://www.instagram.com/lytexbio/
+**Instagram:** https://www.instagram.com/p/Dft7WAvicUv/
 
 **Stand der Recherche:** 2026-11-13
 
@@ -42,6 +42,7 @@ topics: ["Drogenaufklärung", "Harm Reduction", "Psychedelika", "Neurowissenscha
 
 ## Changelogs
 
+- 2026-11-17: Videolinks eingefügt.
 - 2026-11-13: Quellenliste angelegt.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung. Keine Anleitung, keine Empfehlung und kein Aufruf zum Konsum – diese Substanzen sind in Deutschland dem Betäubungsmittelgesetz unterstellt. Hilfe gibt es bei Suchtberatungsstellen, im Notfall unter 112.
