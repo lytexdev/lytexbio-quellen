@@ -20,7 +20,6 @@ topics: ["Schlaf", "Pharmakologie", "Neurowissenschaft"]
 | --- | --- | --- | --- |
 | Daridorexant (Handelsname Quviviq) gehört zur Klasse der dualen Orexin-Rezeptor-Antagonisten (DORA). | Hoch | [2] | In der EU seit 2022 zugelassen für Erwachsene mit Insomnie seit mindestens 3 Monaten und relevanter Beeinträchtigung am Tag; verschreibungspflichtig. |
 | Orexin ist ein Neuropeptid, das dem Gehirn signalisiert, wach zu bleiben. | Hoch | [1], [2] | Lehrbuchwissen (Hypothalamus, Orexin-/Hypocretin-System). |
-| Modafinil wirkt gegenteilig und erhöht die Orexin-Aktivität. | Mittel | – | Modafinil aktiviert orexinerge Neurone – überwiegend aus Tier- und Bildgebungsdaten; der genaue Mechanismus (primär Dopamin-Wiederaufnahmehemmung) ist komplexer. Im Video als Vergleich dargestellt. |
 | Daridorexant blockiert die Orexin-Rezeptoren und reduziert so Wachheit und Wachantrieb. | Hoch | [2] | „Dual“ = blockiert OX1 und OX2. |
 | Anders als Benzodiazepine und Z-Drugs wirkt es nicht über das GABA-System. | Hoch | [2] | Korrekt: DORA greifen nicht am GABA-A-Rezeptor an. |
 | In klinischen Studien verkürzte Daridorexant die Einschlafzeit und verbesserte das Durchschlafen. | Hoch | [1] | Zwei Phase-3-RCTs, 1854 Erwachsene. 50 mg vs. Placebo nach 3 Monaten: Einschlaflatenz −11,7 min, Wachzeit nach Einschlafen −18,3 min, selbstberichtete Gesamtschlafzeit +19,8 min. Moderate Effekte. |
@@ -36,6 +35,8 @@ topics: ["Schlaf", "Pharmakologie", "Neurowissenschaft"]
 
 ## Changelogs
 
-- 2026-11-11: Quellenliste angelegt.
+- 2026-11-13: Fassung 2 des Videos – der Modafinil-Vergleich ist aus dem Schnitt entfernt, die Zeile dazu deshalb hier gestrichen.
+
+- 2026-11-11: Quellenliste angelegt. Eingeordnet: Zulassungsstatus, Effektgrößen aus den Phase-3-Studien (moderat, 10 mg ohne Effekt), Herstellerfinanzierung, „besser als Benzos“ als Meinung ohne Vergleichsstudie.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

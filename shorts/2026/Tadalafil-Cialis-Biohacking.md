@@ -38,6 +38,6 @@ topics: ["Biohacking", "Pharmakologie", "Herz-Kreislauf"]
 
 ## Changelogs
 
-- 2026-11-12: Quellenliste angelegt.
+- 2026-11-11: Quellenliste angelegt. Ergänzt, weil im Gesprochenen nicht enthalten: Nitrat- und Riociguat-Kontraindikation, kardiale Gegenanzeigen, Priapismus als Notfall, Off-Label-Status bei Gesunden. Halbwertszeit und Tagesdosis stimmen mit der Fachinformation überein.
 
 > Kurzvideos vereinfachen stark. Diese Zusammenstellung dient der wissenschaftlichen Transparenz und ist keine individuelle medizinische Beratung.

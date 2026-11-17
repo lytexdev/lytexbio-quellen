@@ -1,6 +1,6 @@
 ---
 title: "Blutdrucksenker – 4 Gruppen, 4 Mechanismen"
-published: "2026-11-11"
+published: "2026-11-15"
 tiktok_url: "https://www.tiktok.com/@lytexbio/"
 instagram_url: "https://www.instagram.com/lytexbio/"
 topics: ["Pharmakologie", "Herz-Kreislauf", "Medizin"]
@@ -8,7 +8,7 @@ topics: ["Pharmakologie", "Herz-Kreislauf", "Medizin"]
 
 # Blutdrucksenker – 4 Gruppen, 4 Mechanismen — Quellen
 
-**TikTok:** https://www.tiktok.com/@lytexbio/video/VIDEO_ID
+**TikTok:** https://www.tiktok.com/@lytexbio/video/7708380862437494038
 
 **Instagram:** https://www.instagram.com/reel/REEL_ID/
 
